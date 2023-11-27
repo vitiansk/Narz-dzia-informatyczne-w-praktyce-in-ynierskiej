@@ -4,6 +4,7 @@ Zastosowanie poleceń GIT.
 
 ## 1 Konfiguracja Git
 
+
 Ustawienie danych użytkownika w konfiguracji Gita
 
 ```bash
